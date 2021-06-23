@@ -1,0 +1,6 @@
+{
+  "token": "NzEzNTE3NDAyNjgzNjA1MDEz.XshQ3Q.p-swu2ZvYk-ToennBaB2C5UAM6U",
+  "prefix": "default command prefix here",
+  "mongoPath": "mongo path here",
+  "redisPath": "redis path here"
+}
